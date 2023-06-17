@@ -1,1 +1,3 @@
 # odin-recipes
+In this week i had gained so much skills like how to use git where i manage to clone my project from github by using ssh code which become somehow difficult but i mnage to do it.
+And now i'm doing my work in html,where i crated index which is the file i put all my link to direct me to another pages of different recipes and i have another three page which includes recipes and their description.
